@@ -1,0 +1,15 @@
+{
+  "name": "iranimij/wp-plugin-db-updater",
+  "description": "Update you plugin's database",
+  "type": "library",
+  "version": "1.0.6",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "iranimij",
+      "email": "iranimij@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
